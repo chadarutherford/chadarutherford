@@ -3,4 +3,4 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chadarutherford&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[Lambda iOS Completion Badge](https://www.youracclaim.com/badges/dc7882d6-bdf5-4a9e-9f50-92da9538b963/public_url)
+[Lambda iOS Completion Badge](https://images.youracclaim.com/size/680x680/images/8a62aace-1738-4782-8a30-2a8ed0968844/lambda-badge-ios-dev.png)
